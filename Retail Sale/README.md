@@ -12,7 +12,7 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 - Total revenue and units sold over time
 - Best-selling products and sales by category
 - Store performance by region
-- Customer demographics and segmentation
+- Customer demographics and cohort analysis
 - Interactive filters for drill-down analysis
 - Visual storytelling with retail KPIs
 
@@ -44,8 +44,3 @@ All data modeling and cleaning steps were conducted in Power Query and Power BI,
 - Region-based comparisons for store performance
 - Use of card visuals and bar/line charts for clarity
 - Dashboard theme aligned with retail brand colors
-
-## 📂 Files Included
-
-- `Electrics_Sales_Dashboard.pbix` – Power BI project file
-- `preview.png` – Dashboard preview image
